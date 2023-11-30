@@ -1,0 +1,24 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeshk8/github.git"
+  },
+  "author": "sandesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeshk8/github/issues"
+  },
+  "homepage": "https://github.com/Sandeshk8/github#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.21.0"
+  }
+}
